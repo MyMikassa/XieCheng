@@ -109,7 +109,7 @@ python-dotenv==0.10.1
 python-editor==1.0.3
 pytz==2018.5
 pywinpty==0.5.4
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 qiniu==7.2.2
 qrcode==6.0
