@@ -8,7 +8,7 @@ backcall==0.1.0
 beautifulsoup4==4.7.1
 billiard==3.5.0.4
 bleach==3.0.2
-celery==4.2.1
+celery==5.2.2
 certifi==2018.8.24
 cffi==1.11.5
 chardet==3.0.4
